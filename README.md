@@ -1,11 +1,7 @@
+[![Mailbites Logo](https://dev.mailbites.io/logo.png)](https://mailbites.io)
+
 # Mailbites Bug Tracker
 
-This is where we keep track of all bugs and feature requests for [Tailwind UI](https://tailwindui.com).
+Welcome to the [Mailbites](https://mailbites.io) bug and feature requests tracker. You can open a new issue in the [Issues](https://github.com/mailbites/issues/issues) tab, or request a new feature in the [Discussions](https://github.com/mailbites/issues/discussions) tab.
 
-**Please note the issue tracker is not for technical support questions.**
-
-If you have questions about things like integrating a component into your project, tweaking a design in a particular way, accomplishing some interactive behavior with JavaScript, etc., we recommend joining the Tailwind UI Discord community and asking your question to the group:
-
-**[Join the Tailwind UI Discord Community](https://tailwindui.com/discord)**
-
-Because every project is different and the way independently authored pieces of code interact can be complex and time-consuming to understand, **we do not offer technical support or consulting**. We do monitor the Discord community closely and will happily chime in with answers or advice if we see a question we are able to help with (we're friendly Canadians, you should see how much time we spend helping people for free already), we just can't guarantee official technical support as part of your purchase.
+**Please note that the bug and feature requests tracker are not intended for technical support or consulting**. We're very sorry about that, but every project is different, and it can be very time consuming and hard to understand how individual pieces of code work together.
