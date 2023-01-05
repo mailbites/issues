@@ -1,4 +1,4 @@
-[![Mailbites Logo](https://dev.mailbites.io/logo.png)](https://mailbites.io)
+[![Mailbites Logo](https://dev.mailbites.io/logo.svg)](https://mailbites.io)
 
 # Mailbites Bug Tracker
 
